@@ -11,14 +11,14 @@ The purpose of our Online Pharmacy Management System is to provide an efficient 
 Provide instructions for setting up and running your project locally.
 
 ### Prerequisites
--.net 6
--Visual Studio
+- .net 6,Visual Studio
 
 ### Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Srushti-Gol/OnlinePharmacyManagement.git
-2.Change into the project directory cd OnlinePharmacyManagement
-3.Change Connection String in this file /Models/Functions.cs 
-4.Set Login.aspx as StartUp file and run the project
+   
+2. Change into the project directory cd OnlinePharmacyManagement
+3. Change Connection String in this file /Models/Functions.cs 
+4. Set Login.aspx as StartUp file and run the project
